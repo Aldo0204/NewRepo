@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba3", "Prueba3.csproj",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{4184BECB-2A3B-4D48-BF6B-8663519B762E}"
 	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
 		Holaaaa.cs = Holaaaa.cs
 	EndProjectSection
 EndProject
